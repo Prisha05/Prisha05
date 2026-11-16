@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prisha Pandey
 
-### Full Stack Developer | Angular · React.js · Node.js · TypeScript · SQL
+### Full Stack Developer | Angular · React.js · Node.js · TypeScript · SQL | 3 Years of Experience
 
 Full Stack Developer passionate about building scalable web applications, developer tools, and practical software solutions. Experienced in frontend development, backend engineering, REST APIs, database management, and cloud deployment.
 
