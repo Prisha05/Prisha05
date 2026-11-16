@@ -1,54 +1,120 @@
-# 👋 Hello World! I'm Prisha Pandey
+# 👋 Hi, I'm Prisha Pandey
 
-I’m a Full Stack Developer with 1+ years of experience building scalable web and mobile apps using modern technologies.
+### Full Stack Developer | Angular · React.js · Node.js · TypeScript · SQL
+
+Full Stack Developer passionate about building scalable web applications, developer tools, and practical software solutions. Experienced in frontend development, backend engineering, REST APIs, database management, and cloud deployment.
 
 ---
 
-## 🚀 Projects I've Built
+## 🚀 Projects
 
-### 🌐 [Eventing Dashboard](https://eventingdashboard.vercel.app/login)  
-**Stack:** Next.js · Node.js · MongoDB · AWS  
-A full-stack event management platform with server-side rendering and cloud integration.
+### 🌐 Eventing Dashboard
+[Live Demo](https://eventingdashboard.vercel.app/login)
 
-### 📱 [Aryventory – Inventory App](https://play.google.com/store/apps/details?id=com.arysoft.aryventory)  
-**Stack:** React Native · Node.js · PostgreSQL  
-An inventory tracking mobile app built for businesses to manage products on the go.
+**Next.js · Node.js · MongoDB · AWS**
 
-### 💡 [Market Strategy Task](https://market-strategy-task.vercel.app/)  
-**Stack:** React.js  
-Frontend challenge showcasing UI design and component structure.
+Full-stack event management platform with an intuitive dashboard and cloud integration.
 
-### 🧘 Yoga Management Web App (Local)  
-**Stack:** Python · Django  
-App to manage yoga classes, student records, and schedules. Deployment in progress.
+### 📦 Aryventory – Inventory Management
 
-### 🛠️ Aryventory Admin Dashboard  
-**Stack:** React.js  
-Admin interface for Aryventory — built for internal company operations.
+**React Native · Node.js · PostgreSQL**
+
+Inventory management application for product tracking and business operations.
+
+### 💡 Market Strategy Task
+[Live Demo](https://market-strategy-task.vercel.app/)
+
+**React.js**
+
+Responsive frontend application showcasing modern UI and reusable components.
+
+### 🧘 Yoga Management System
+
+**Python · Django · SQL**
+
+Web application for managing yoga classes, student records, and schedules.
+
+### 🛠️ Aryventory Admin Dashboard
+
+**React.js**
+
+Administrative dashboard for managing inventory operations and internal business workflows.
+
+### 🧰 DevToolbox – Developer Toolkit
+
+**Angular · TypeScript · Node.js**
+
+All-in-one developer utility platform featuring JSON formatting, JWT decoding, Base64 conversion, code comparison, and snippet management.
+
+### 🔌 API Playground
+
+**Angular · Node.js · TypeScript**
+
+Browser-based API testing platform with request management, authentication, response visualization, and environment comparison.
+
+### 🗄️ SQL Playground
+
+**Angular · Node.js · SQLite**
+
+Interactive SQL environment for executing queries, managing tables, and visualizing database operations.
+
+### 💻 Code Explainer
+
+**Angular · TypeScript · JavaScript**
+
+Interactive code visualization tool that explains loops, variables, arrays, and program execution step by step.
+
+### 🤖 Screenshot to Code
+
+**Angular · Node.js · AI Integration**
+
+AI-powered interface that converts website screenshots into responsive HTML and CSS layouts.
+
+### ⏱️ FocusFlow – Productivity Tracker
+
+**React.js · Node.js · SQL**
+
+Productivity platform with task management, Pomodoro timer, time tracking, and analytics dashboards.
+
+### 📊 Database Schema Designer
+
+**Angular · TypeScript · Node.js · SQL**
+
+Visual database modeling tool with drag-and-drop tables, ER diagrams, SQL imports, and schema generation.
+
+### 📄 Resume Analyzer & Job Tracker
+
+**React.js · Node.js · Express.js · SQL**
+
+Career management platform for resume analysis, job description matching, and application tracking.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React Native, React.js, Next.js, Angular, Tailwind  
-- **Backend:** Node.js, Express.js, Django  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Cloud & DevOps:** AWS (S3, EC2), Vercel  
-- **Workflow:** Git, GitHub, Postman
+**Frontend:** Angular, React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS
+
+**Backend:** Node.js, Express.js, Python, Django, REST APIs
+
+**Databases:** MySQL, PostgreSQL, MongoDB, SQLite
+
+**Cloud & Deployment:** AWS (S3, EC2), Vercel
+
+**Tools:** Git, GitHub, Postman, VS Code
 
 ---
 
-## 🎓 Certification
+## 🎓 Certifications
 
-- 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**  
-
----
-
-## 🤝 Let’s Connect
-
-💼 [LinkedIn](https://www.linkedin.com/in/prisha-pandey-0a818b2a2/)  
-📧 [prishapandey37@gmail.com](mailto:prishapandey37@gmail.com)
+- 🏅 Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ---
 
-> _“Code with purpose, build with passion.”_
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/prisha-pandey-0a818b2a2/)
+- 📧 [Email](mailto:prishapandey37@gmail.com)
+
+---
+
+*"Building meaningful solutions, one line of code at a time."*
